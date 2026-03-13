@@ -1,0 +1,1258 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 80px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.home .navigation {
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 136.5px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #dadada;
+  display: flex;
+  position: relative;
+}
+
+.home .container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 93px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .button {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 62.95px;
+  height: 24px;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .div {
+  width: 755.17px;
+  height: 24px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 48px;
+  display: flex;
+  position: relative;
+}
+
+.home .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 43.14px;
+  height: 24px;
+}
+
+.home .text-wrapper-2 {
+  top: 0;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+  position: absolute;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 45.44px;
+  height: 24px;
+}
+
+.home .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 43.65px;
+  height: 24px;
+}
+
+.home .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 38.89px;
+  height: 24px;
+}
+
+.home .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 57.62px;
+  height: 24px;
+}
+
+.home .header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 96px;
+  padding: 96px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: transparent;
+}
+
+.home .container-2 {
+  display: flex;
+  flex-direction: column;
+  width: 911px;
+  height: 126px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+}
+
+.home .heading {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 72px;
+}
+
+.home .text-wrapper-5 {
+  position: absolute;
+  top: 1px;
+  left: calc(50.00% - 117px);
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: -1.06px;
+  line-height: 72px;
+  white-space: nowrap;
+}
+
+.home .paragraph {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 30px;
+}
+
+.home .p {
+  position: absolute;
+  top: 0;
+  left: calc(50.00% - 231px);
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: -0.45px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .container-3 {
+  display: flex;
+  width: 911px;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .container-4 {
+  position: relative;
+  width: 80px;
+  height: 92px;
+}
+
+.home .layer {
+  position: absolute;
+  top: 0;
+  left: -10px;
+  width: 100px;
+  height: 104px;
+  transform: rotate(180deg);
+  aspect-ratio: 0.97;
+}
+
+.home .vector {
+  position: absolute;
+  width: 96.54%;
+  height: 100.00%;
+  top: 0;
+  left: 3.46%;
+  transform: rotate(-180deg);
+}
+
+.home .img {
+  position: absolute;
+  width: 6.99%;
+  height: 53.32%;
+  top: 46.68%;
+  left: 93.01%;
+  transform: rotate(-180deg);
+}
+
+.home .vector-2 {
+  position: absolute;
+  width: 100%;
+  height: 53.32%;
+  top: 46.68%;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.home .vector-3 {
+  position: absolute;
+  width: 62.09%;
+  height: 61.65%;
+  top: 38.35%;
+  left: 37.91%;
+  transform: rotate(-180deg);
+}
+
+.home .vector-4 {
+  position: absolute;
+  width: 86.20%;
+  height: 71.65%;
+  top: 28.35%;
+  left: 13.80%;
+  transform: rotate(-180deg);
+}
+
+.home .vector-5 {
+  position: absolute;
+  width: 53.48%;
+  height: 16.65%;
+  top: 83.35%;
+  left: 46.52%;
+  transform: rotate(-180deg);
+}
+
+.home .paragraph-2 {
+  position: absolute;
+  top: 120px;
+  left: 14px;
+  width: 51px;
+  height: 20px;
+  display: flex;
+}
+
+.home .text-wrapper-6 {
+  margin-top: 0.5px;
+  width: 52px;
+  height: 20px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .container-5 {
+  display: flex;
+  width: 412px;
+  height: 12px;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.home .container-6 {
+  position: relative;
+  width: 192px;
+  height: 1px;
+  background-color: #9a9a9a;
+}
+
+.home .container-7 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background-color: #000000;
+  border-radius: 6px;
+}
+
+.home .container-8 {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 1px;
+  background-color: #9a9a9a;
+}
+
+.home .container-9 {
+  display: flex;
+  flex-direction: column;
+  width: 120px;
+  height: 74px;
+  align-items: center;
+  gap: 34px;
+  position: relative;
+}
+
+.home .layer-2 {
+  position: relative;
+  width: 124px;
+  height: 78px;
+  margin-bottom: -4.00px;
+  margin-left: -2.00px;
+  margin-right: -2.00px;
+  aspect-ratio: 1.58;
+}
+
+.home .paragraph-3 {
+  position: relative;
+  width: 19.54px;
+  height: 20px;
+  margin-bottom: -58.00px;
+}
+
+.home .text-wrapper-7 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .button-6 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 127.55px;
+  height: 47px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.home .text-wrapper-8 {
+  position: absolute;
+  top: 13px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: -0.15px;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.home .philosphy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 62px 136px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #f2f2f2;
+}
+
+.home .container-10 {
+  display: flex;
+  flex-direction: column;
+  width: 444px;
+  height: 383px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 48px 48px 0px;
+  position: relative;
+  background-color: #000000;
+  border-radius: 8px;
+}
+
+.home .div-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 40px;
+}
+
+.home .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0.41px;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.home .terrariums-and-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 120px;
+}
+
+.home .terrariums-and {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 343px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #dadada;
+  font-size: 16px;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+}
+
+.home .span {
+  letter-spacing: -0.05px;
+}
+
+.home .text-wrapper-10 {
+  font-weight: 600;
+  letter-spacing: -0.05px;
+}
+
+.home .paragraph-wrapper {
+  display: flex;
+  width: 443.5px;
+  height: 384px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .image-wrapper {
+  position: relative;
+  width: 190.66px;
+  height: 20px;
+}
+
+.home .image {
+  position: absolute;
+  top: -184px;
+  left: -125px;
+  width: 444px;
+  height: 383px;
+  aspect-ratio: 1.16;
+}
+
+.home .recognitions-and {
+  display: flex;
+  flex-direction: column;
+  height: 609px;
+  align-items: center;
+  gap: 48px;
+  padding: 0px 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.home .RECOGNITION-wrapper {
+  padding: 0px 224px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .RECOGNITION {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0.41px;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.home .container-11 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .container-12 {
+  display: flex;
+  flex-direction: column;
+  width: 287.66px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 25px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .img-wrapper {
+  display: flex;
+  height: 256px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  border: 1px solid;
+  border-color: #dadada;
+  background: linear-gradient(
+    314deg,
+    rgba(41, 80, 149, 1) 0%,
+    rgba(31, 61, 115, 1) 100%
+  );
+}
+
+.home .image-2 {
+  position: relative;
+  width: 219px;
+  height: 151px;
+  aspect-ratio: 1.45;
+}
+
+.home .frame {
+  display: flex;
+  width: 122px;
+  height: 26px;
+  align-items: center;
+  gap: 10px;
+  padding: 0px 7px;
+  position: relative;
+  background-color: #e8f5e9;
+  border-radius: 10px;
+}
+
+.home .element-tif {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-11 {
+  position: relative;
+  width: 81px;
+  height: 26px;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #4caf50;
+  font-size: 12px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.home .heading-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 54px;
+}
+
+.home .text-wrapper-12 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 176px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+}
+
+.home .paragraph-4 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 20px;
+}
+
+.home .text-wrapper-13 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .paragraph-5 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 60px;
+}
+
+.home .bold-text {
+  display: flex;
+  width: 146px;
+  height: 16px;
+  align-items: flex-start;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.home .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-bottom: -2.50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .contribution-mood {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 228px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+
+.home .container-13 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 506px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 25px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .container-14 {
+  display: flex;
+  width: 237.66px;
+  height: 256px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 0.01px 0px 0px;
+  position: relative;
+  background-color: #f2f2f2;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .image-3 {
+  position: relative;
+  width: 237px;
+  height: 256px;
+  aspect-ratio: 0.93;
+}
+
+.home .heading-3 {
+  position: relative;
+  width: 237.66px;
+  height: 54px;
+}
+
+.home .text-wrapper-15 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 220px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+}
+
+.home .paragraph-6 {
+  position: relative;
+  width: 237.66px;
+  height: 20px;
+}
+
+.home .paragraph-7 {
+  position: relative;
+  width: 237.66px;
+  height: 40px;
+}
+
+.home .bold-text-2 {
+  display: flex;
+  width: 205px;
+  height: 16px;
+  align-items: flex-start;
+  position: absolute;
+  top: 2px;
+  left: 0;
+}
+
+.home .text-wrapper-16 {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .container-15 {
+  display: flex;
+  flex-direction: column;
+  width: 288px;
+  height: 506px;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 25px 25px 1px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .icon-wrapper {
+  display: flex;
+  height: 256px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+
+.home .icon {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.home .vector-6 {
+  position: absolute;
+  width: 78.12%;
+  height: 94.79%;
+  top: 5.21%;
+  left: 21.88%;
+}
+
+.home .vector-7 {
+  position: absolute;
+  width: 65.62%;
+  height: 28.12%;
+  top: 71.88%;
+  left: 34.38%;
+}
+
+.home .vector-8 {
+  position: absolute;
+  width: 61.46%;
+  height: 11.46%;
+  top: 88.54%;
+  left: 38.54%;
+}
+
+.home .heading-4 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 27px;
+}
+
+.home .text-wrapper-17 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.home .multiple-UI {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 170px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+
+.home .ideas {
+  display: flex;
+  flex-direction: column;
+  height: 508px;
+  align-items: flex-start;
+  gap: 48px;
+  padding: 64px 136.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+.home .container-16 {
+  display: flex;
+  flex-direction: column;
+  height: 80px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.home .heading-5 {
+  padding: 0px 408px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0.41px;
+  line-height: 40px;
+  white-space: nowrap;
+}
+
+.home .explorations-at-the-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 232px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .explorations-at-the {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.31px;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .container-17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home .container-18 {
+  position: relative;
+  width: 287.66px;
+  height: 225px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .container-19 {
+  position: absolute;
+  top: 33px;
+  left: 33px;
+  width: 222px;
+  height: 119px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home .container-20 {
+  width: 48px;
+  height: 4px;
+  background-color: #000000;
+}
+
+.home .heading-6 {
+  width: 221.66px;
+  margin-top: 16px;
+  display: flex;
+}
+
+.home .bus-auto-lanes {
+  margin-top: 0.5px;
+  width: 144px;
+  height: 27px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.home .a-behavioral-design-wrapper {
+  width: 221.66px;
+  margin-top: 12px;
+  display: flex;
+}
+
+.home .a-behavioral-design {
+  margin-top: 0.5px;
+  width: 215px;
+  height: 60px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+
+.home .link {
+  top: 172px;
+  display: flex;
+  width: 86px;
+  height: 16px;
+  align-items: flex-start;
+  position: absolute;
+  left: 33px;
+}
+
+.home .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  margin-bottom: -2.50px;
+  margin-right: -2.20px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .container-21 {
+  position: relative;
+  width: 287.66px;
+  height: 252px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .container-22 {
+  position: absolute;
+  top: 33px;
+  left: 33px;
+  width: 222px;
+  height: 146px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home .terrariums-design {
+  margin-top: 0.5px;
+  width: 167px;
+  height: 54px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+}
+
+.home .what-self-sustaining-wrapper {
+  width: 221.66px;
+  height: 60px;
+  margin-top: 12px;
+  display: flex;
+}
+
+.home .what-self-sustaining {
+  margin-top: 0.5px;
+  width: 214px;
+  height: 80px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+
+.home .link-2 {
+  top: 200px;
+  display: flex;
+  width: 86px;
+  height: 16px;
+  align-items: flex-start;
+  position: absolute;
+  left: 33px;
+}
+
+.home .container-23 {
+  position: relative;
+  width: 287.67px;
+  height: 225px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #dadada;
+}
+
+.home .heading-7 {
+  width: 221.67px;
+  margin-top: 16px;
+  display: flex;
+}
+
+.home .text-wrapper-20 {
+  margin-top: 0.5px;
+  width: 168px;
+  height: 27px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: -0.44px;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.home .why-storytelling-wrapper {
+  width: 221.67px;
+  margin-top: 12px;
+  display: flex;
+}
+
+.home .why-storytelling {
+  margin-top: 0.5px;
+  width: 189px;
+  height: 60px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+}
+
+.home .footer {
+  display: flex;
+  flex-direction: column;
+  height: 117px;
+  align-items: flex-start;
+  padding: 49px 136.5px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: transparent;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: #dadada;
+}
+
+.home .element-portfolio-UI-UX-wrapper {
+  position: relative;
+  width: 443.5px;
+  height: 20px;
+}
+
+.home .container-24 {
+  display: flex;
+  width: 443.5px;
+  height: 20px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 32px;
+  position: relative;
+}
+
+.home .button-7 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 51.28px;
+  height: 20px;
+}
+
+.home .text-wrapper-21 {
+  top: 1px;
+  color: #555555;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  position: absolute;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .button-8 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: 38.81px;
+  height: 20px;
+}
+
+.home .text-wrapper-22 {
+  top: 1px;
+  left: -1px;
+  font-size: 14px;
+  letter-spacing: -0.15px;
+  line-height: 20px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #555555;
+  text-align: center;
+  white-space: nowrap;
+}
