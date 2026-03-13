@@ -248,26 +248,26 @@
 
 .home .img {
   position: absolute;
-  width: 6.99%;
-  height: 53.32%;
-  top: 46.68%;
-  left: 93.01%;
+  width: 8%;
+  height: 8.3%;
+  top: 44.7%;
+  left: 95.0%;
   transform: rotate(-180deg);
 }
 
 .home .vector-2 {
   position: absolute;
-  width: 100%;
-  height: 53.32%;
-  top: 46.68%;
+  width: 8%;
+  height: 8.32%;
+  top: 45.7%;
   left: 0;
   transform: rotate(-180deg);
 }
 
 .home .vector-3 {
   position: absolute;
-  width: 62.09%;
-  height: 61.65%;
+  width: 25.1%;
+  height: 25.6%;
   top: 38.35%;
   left: 37.91%;
   transform: rotate(-180deg);
@@ -275,19 +275,19 @@
 
 .home .vector-4 {
   position: absolute;
-  width: 86.20%;
-  height: 71.65%;
-  top: 28.35%;
+  width: 8.20%;
+  height: 8.7%;
+  top: 27.4%;
   left: 13.80%;
   transform: rotate(-180deg);
 }
 
 .home .vector-5 {
   position: absolute;
-  width: 53.48%;
-  height: 16.65%;
-  top: 83.35%;
-  left: 46.52%;
+  width: 8.5%;
+  height: 8.6%;
+  top: 82.35%;
+  left: 47.50%;
   transform: rotate(-180deg);
 }
 
@@ -841,18 +841,18 @@
 
 .home .vector-6 {
   position: absolute;
-  width: 78.12%;
-  height: 94.79%;
-  top: 5.21%;
-  left: 21.88%;
+  width: 100.1%;
+  height: 100.8%;
+  top: -45.8%;
+  left: 1.9%;
 }
 
 .home .vector-7 {
   position: absolute;
-  width: 65.62%;
+  width: 55.62%;
   height: 28.12%;
-  top: 71.88%;
-  left: 34.38%;
+  top: 57.9%;
+  left: 24.4%;
 }
 
 .home .vector-8 {
@@ -860,7 +860,7 @@
   width: 61.46%;
   height: 11.46%;
   top: 88.54%;
-  left: 38.54%;
+  left: 22.54%;
 }
 
 .home .heading-4 {
@@ -986,7 +986,7 @@
 .home .container-18 {
   position: relative;
   width: 287.66px;
-  height: 225px;
+  height: 250px;
   background-color: #ffffff;
   border-radius: 8px;
   border: 1px solid;
@@ -1074,7 +1074,7 @@
 .home .container-21 {
   position: relative;
   width: 287.66px;
-  height: 252px;
+  height: 250px;
   background-color: #ffffff;
   border-radius: 8px;
   border: 1px solid;
@@ -1135,7 +1135,7 @@
 .home .container-23 {
   position: relative;
   width: 287.67px;
-  height: 225px;
+  height: 250px;
   background-color: #ffffff;
   border-radius: 8px;
   border: 1px solid;
