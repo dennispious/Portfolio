@@ -1256,3 +1256,15 @@
   text-align: center;
   white-space: nowrap;
 }
+
+.nav-link {
+  text-decoration: none;
+  color: #000;
+  font-family: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  opacity: 0.6;
+}
