@@ -1283,3 +1283,23 @@
   all: unset;
   cursor: pointer;
 }
+
+.navigation a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navigation a:visited {
+  color: inherit;
+}
+
+.navigation a:hover {
+  color: inherit;
+}
+
+.navigation * {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  color: #000 !important;
+}
