@@ -889,3 +889,9 @@
 .project-card {
   grid-column: span 1 !important;
 }
+
+.project-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
