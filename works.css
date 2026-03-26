@@ -886,12 +886,12 @@
   gap: 40px !important;
 }
 
-.project-card {
-  grid-column: span 1 !important;
-}
-
 .project-link {
   text-decoration: none;
   color: inherit;
-  display: contents;
+  display: block;
+}
+
+.section .project-link {
+  grid-column: span 1 !important;
 }
